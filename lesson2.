@@ -1,0 +1,12 @@
+    full_name = "anastasia knyazyan"
+    print(len(full_name)
+
+    #ყველა სტრინგი შეგვიძლია მივიჩნიოდ სიად
+    # print(full_name[5])
+    #position = index სინონიმებია
+
+    print("k" not in full_name)
+
+    full_name = "anastasia knyazyan"
+    # print(full_name[9:8:9])
+    # print(full_name[:10])
